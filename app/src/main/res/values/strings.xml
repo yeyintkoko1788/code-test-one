@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Data Management</string>
+
+    <string name="photo_portrait_ration" translatable="false">H,1:1</string>
+    <string name="photo_welcome_ration" translatable="false">H,414:736</string>
+    <string name="str_welcome_to_ready_to_travel">Welcome to Ready To Travel</string>
+    <string name="str_description">Sign up with Facebook for the most fulfilling trip planning experience with us!</string>
+    <string name="login_in_with_facebook">Login in with Facebook</string>
+    <string name="str_create_a_new_account">Create a new account</string>
+    <string name="str_log_in_with_email_address">Log in with email address</string>
+    <string name="str_almost_there">Almost there!</string>
+    <string name="str_create_acc_desc">Complete the form below to create your Ready to Travel account.</string>
+    <string name="str_mandatory">*Mandatory</string>
+    <string name="str_first_name">First Name*</string>
+    <string name="str_enter_first_name">Enter First Name</string>
+    <string name="str_last_name">Last Name*</string>
+    <string name="str_enter_last_name">Enter Last Name</string>
+    <string name="str_email_address">Email Address*</string>
+    <string name="str_email_hint">abc@provider.com</string>
+    <string name="str_date_of_birth">Date of Birth*</string>
+    <string name="str_date">DD/MM/YYYY</string>
+    <string name="str_nationality">Nationality*</string>
+    <string name="str_myanmar">Myanmar</string>
+    <string name="str_country_of_resident">Country of Resident*</string>
+    <string name="str_mobile_no_optional">Mobile no. (Optional)</string>
+    <string name="str_mobile_no">09*******</string>
+    <string name="str_create_my_account_now">Create my account now</string>
+    <string name="str_female">female</string>
+    <string name="str_male">male</string>
+</resources>
